@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-
+<p>I have experience with HTML5, CSS, SCSS, JavaScript, jQuery, TypeScript ,Bootstrap, and React.js.</p>
 ###
 
 <!--<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>-->
