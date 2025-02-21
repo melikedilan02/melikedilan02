@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Melike and I'm a frontend developer, live Turkey</p>
+<p align="left"> Merhaba ben Melike Ege Frontend Developer alanında çalışıyorum. 2 yıldır bu alanda deneyim kazanmaktayım. HTML, BOOTSTRAPCSS,JAVASCRİPT,JQUERY, REACT JS. Node Js. Express programlama dilleri üzerinde bilgi ve projelere sahibim. </p>
 
 ###
 
